@@ -169,7 +169,7 @@ print(me.philosophy())
 <div align="center">
 
 <a href="https://github.com/Lithick-Sanjaiyan-S">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lithick-Sanjaiyan-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lithick-Sanjaiyan-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithick-Sanjaiyan-S&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 </a>
@@ -205,7 +205,7 @@ print(me.philosophy())
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lithick-Sanjaiyan-S&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lithick-Sanjaiyan-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 <br/>
