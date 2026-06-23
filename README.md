@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=🤖+Building+Production-Grade+LLM+Applications;🧠+Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Optimization;🚀+Turning+AI+Research+into+Real-World+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Building+Production-Grade+LLM+Applications;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Optimization;Turning+AI+Research+into+Real-World+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,27 +34,27 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; About Me
+## About Me
 
 ```python
 class AIEngineer:
     def __init__(self):
         self.name         = "Lithick Sanjaiyan S"
-        self.location     = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.location     = "Chennai, Tamil Nadu, India"
         self.education    = "B.Tech — Artificial Intelligence & Data Science (2022–2026)"
         self.college      = "Karpagam College of Engineering  |  CGPA: 8.1/10"
         self.role         = "AI Engineer Intern @ Prayag.ai"
         self.focus        = ["LLM Applications", "Agentic Workflows", "RAG Pipelines"]
         self.languages    = ["Python", "Java"]
         self.seeking      = "Junior AI Engineer @ AI-First Startups"
-    
+
     def current_focus(self):
         return [
-            "🤖  Shipping production-grade LLM applications",
-            "🧠  Engineering multi-agent agentic systems",
-            "⚡  Optimizing LLM latency & hallucination reduction",
-            "🔍  Graph-based semantic search with Neo4j",
-            "🎯  Mastering advanced prompt engineering patterns",
+            "Shipping production-grade LLM applications",
+            "Engineering multi-agent agentic systems",
+            "Optimizing LLM latency & hallucination reduction",
+            "Graph-based semantic search with Neo4j",
+            "Mastering advanced prompt engineering patterns",
         ]
 
     def philosophy(self):
@@ -67,7 +67,7 @@ print(me.philosophy())
 
 <br/>
 
-> 🎯 **B.Tech AI & Data Science graduate** with hands-on production experience building **LLM applications, agentic systems, and RAG pipelines**. Proficient in OpenAI API, Gemini API, FastAPI, Neo4j, and vector search. Passionate about closing the gap between AI research and real-world impact. Currently seeking a **Junior AI Engineer** role at an AI-first startup.
+> **B.Tech AI & Data Science graduate** with hands-on production experience building **LLM applications, agentic systems, and RAG pipelines**. Proficient in OpenAI API, Gemini API, FastAPI, Neo4j, and vector search. Passionate about closing the gap between AI research and real-world impact. Currently seeking a **Junior AI Engineer** role at an AI-first startup.
 
 <br/>
 
@@ -75,11 +75,11 @@ print(me.philosophy())
 
 <br/>
 
-## 🛠️ &nbsp; Tech Stack & Tools
+## Tech Stack & Tools
 
 <br/>
 
-### 🧠 &nbsp; AI / LLM & Prompt Engineering
+### AI / LLM & Prompt Engineering
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -92,7 +92,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/Few_Shot_Prompting-FFC107?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🔍 &nbsp; Vector Search & Embeddings
+### Vector Search & Embeddings
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -101,7 +101,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/Reranking-E91E63?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### 💻 &nbsp; Languages
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -109,7 +109,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ⚙️ &nbsp; Frameworks & APIs
+### Frameworks & APIs
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -117,7 +117,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/REST_APIs-FF5722?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ &nbsp; Databases
+### Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
@@ -125,7 +125,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🔌 &nbsp; Integrations & SDKs
+### Integrations & SDKs
 
 <p align="left">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
@@ -135,7 +135,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
 </p>
 
-### 📊 &nbsp; ML / Data Science
+### ML / Data Science
 
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -143,7 +143,7 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### 🧰 &nbsp; Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -159,7 +159,7 @@ print(me.philosophy())
 
 <br/>
 
-## 📊 &nbsp; GitHub Analytics
+## GitHub Analytics
 
 <br/>
 
@@ -197,39 +197,25 @@ print(me.philosophy())
 
 <br/>
 
-## 🏆 &nbsp; GitHub Trophies
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lithick-Sanjaiyan-S&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💼 &nbsp; Experience
+## Experience
 
 <br/>
 
 <table>
 <tr>
-<td width="50px" align="center">
+<td width="120px" align="center">
 <img src="https://img.shields.io/badge/2025--2026-6C63FF?style=for-the-badge" />
 </td>
 <td>
 
-### 🤖 AI Engineer Intern — [Prayag.ai](https://prayag.ai) &nbsp; `Remote`
+### AI Engineer Intern — [Prayag.ai](https://prayag.ai) &nbsp; `Remote`
 
-> **Jun 2025 – Jun 2026**
+**Jun 2025 – Jun 2026**
 
-- 🚀 **Shipped 3 production-ready LLM applications** covering interview automation, voice-based appointment booking, and enterprise knowledge retrieval using agentic workflows and RAG pipelines.
-- 🧠 **Engineered advanced prompt pipelines** using Chain-of-Thought and Few-Shot Prompting, improving LLM response consistency and reducing hallucinations via Pydantic-enforced structured output parsing.
-- ⚡ **Optimized API latency** through caching, token tuning, and de-duplication strategies — achieving near real-time performance for all AI applications in production.
-- 🔌 **Integrated multi-tool orchestration** across Twilio, LiveKit, Google Calendar API, MS Graph API, and Slack SDK to power end-to-end agentic workflows at scale.
+- Shipped 3 production-ready LLM applications covering interview automation, voice-based appointment booking, and enterprise knowledge retrieval using agentic workflows and RAG pipelines.
+- Engineered advanced prompt pipelines using Chain-of-Thought and Few-Shot Prompting, improving LLM response consistency and reducing hallucinations via Pydantic-enforced structured output parsing.
+- Optimized API latency through caching, token tuning, and de-duplication strategies — achieving near real-time performance for all AI applications in production.
+- Integrated multi-tool orchestration across Twilio, LiveKit, Google Calendar API, MS Graph API, and Slack SDK to power end-to-end agentic workflows at scale.
 
 **Key Technologies:** `Python` `FastAPI` `OpenAI API` `Gemini API` `Neo4j` `MongoDB` `PostgreSQL` `Pydantic` `Twilio` `LiveKit`
 
@@ -243,7 +229,7 @@ print(me.philosophy())
 
 <br/>
 
-## 🚀 &nbsp; Featured Projects
+## Featured Projects
 
 <br/>
 
@@ -252,17 +238,17 @@ print(me.philosophy())
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Unified Knowledge Base Chatbot
+### Unified Knowledge Base Chatbot
 **RAG Platform for Investors**
 
-> A production-grade intelligent knowledge retrieval system powering investment research workflows.
+A production-grade intelligent knowledge retrieval system powering investment research workflows.
 
 **Highlights:**
-- 📥 Ingests data from **Outlook, OneDrive, Slack, Fireflies, and Taghash**
-- 🕸️ Structures entities in **Neo4j graph database** with semantic relationships
-- 🔍 OpenAI text embeddings with **Top-K semantic search + reranking**
-- ⚡ LLM summarization achieving **near real-time query responses**
-- 🔌 Custom Outlook & Slack data connectors via MS Graph API & Slack SDK
+- Ingests data from Outlook, OneDrive, Slack, Fireflies, and Taghash
+- Structures entities in Neo4j graph database with semantic relationships
+- OpenAI text embeddings with Top-K semantic search + reranking
+- LLM summarization achieving near real-time query responses
+- Custom Outlook & Slack data connectors via MS Graph API & Slack SDK
 
 **Tech Stack:**
 
@@ -278,17 +264,17 @@ print(me.philosophy())
 </td>
 <td width="50%" valign="top">
 
-### 📞 AI-Powered Telephony Appointment Agent
+### AI-Powered Telephony Appointment Agent
 **Voice AI for Automated Booking at Scale**
 
-> A real-time voice AI agent for end-to-end automated appointment booking with intelligent call routing.
+A real-time voice AI agent for end-to-end automated appointment booking with intelligent call routing.
 
 **Highlights:**
-- 🎙️ Real-time voice AI using **LiveKit + Gemini LLM** for natural conversations
-- 📱 Inbound/outbound telephony at scale via **Twilio**
-- 🗓️ Multi-tool calling: appointment booking, SMS notifications, **Google Calendar sync**
-- 🔀 Intelligent **dynamic call routing** and graceful call termination
-- 👤 Automated onboarding for unregistered callers + human escalation logic
+- Real-time voice AI using LiveKit + Gemini LLM for natural conversations
+- Inbound/outbound telephony at scale via Twilio
+- Multi-tool calling: appointment booking, SMS notifications, Google Calendar sync
+- Intelligent dynamic call routing and graceful call termination
+- Automated onboarding for unregistered callers + human escalation logic
 
 **Tech Stack:**
 
@@ -307,17 +293,17 @@ print(me.philosophy())
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Smart Interview Agent
+### Smart Interview Agent
 **Adaptive AI-Powered Interview & Assessment System**
 
-> An OpenAI-powered agentic interview system with structured evaluation, adaptive questioning, and personalized learning recommendations.
+An OpenAI-powered agentic interview system with structured evaluation, adaptive questioning, and personalized learning recommendations.
 
 **Highlights:**
-- 🤖 Conducts **adaptive interviews** with structured rubrics and auto-generated assessment reports
-- 🧠 Chain-of-Thought + Few-Shot Prompting for **multi-step reasoning** across diverse domains
-- ✅ Pydantic-enforced structured outputs — **significantly reduced hallucination rate**
-- 📚 Automated **skill gap detection** with personalized course recommendations via web research
-- 🏗️ Fully agentic architecture with tool-calling for end-to-end evaluation pipeline
+- Conducts adaptive interviews with structured rubrics and auto-generated assessment reports
+- Chain-of-Thought + Few-Shot Prompting for multi-step reasoning across diverse domains
+- Pydantic-enforced structured outputs with significantly reduced hallucination rate
+- Automated skill gap detection with personalized course recommendations via web research
+- Fully agentic architecture with tool-calling for end-to-end evaluation pipeline
 
 **Tech Stack:**
 
@@ -332,16 +318,16 @@ print(me.philosophy())
 </td>
 <td width="50%" valign="top">
 
-### 💡 What I Build
+### What I Build
 
 ```
-🏗️  Architecture:   Agentic + RAG Systems
-🧰  Backend:        FastAPI + Python
-🗄️  Storage:        Neo4j, MongoDB, PostgreSQL
-🤖  LLMs:          OpenAI, Gemini, Azure
-🔌  Integrations:  Twilio, LiveKit, Slack, MS Graph
-🔍  Search:        Vector Embeddings + Reranking
-⚡  Focus:         Low-latency, production-ready AI
+Architecture:   Agentic + RAG Systems
+Backend:        FastAPI + Python
+Storage:        Neo4j, MongoDB, PostgreSQL
+LLMs:           OpenAI, Gemini, Azure
+Integrations:   Twilio, LiveKit, Slack, MS Graph
+Search:         Vector Embeddings + Reranking
+Focus:          Low-latency, production-ready AI
 ```
 
 > Every project I ship is optimized for **real-world reliability** — not just demos.
@@ -357,13 +343,13 @@ print(me.philosophy())
 
 <br/>
 
-## 🎯 &nbsp; Core Competencies
+## Core Competencies
 
 <br/>
 
 <div align="center">
 
-| 🧠 LLM Engineering | 🔍 Vector & Semantic Search | ⚙️ Backend & APIs |
+| LLM Engineering | Vector & Semantic Search | Backend & APIs |
 |---|---|---|
 | Prompt Engineering (CoT, Few-Shot) | OpenAI Embeddings | FastAPI |
 | Agentic Workflow Design | Top-K Semantic Search | RESTful API Design |
@@ -371,7 +357,7 @@ print(me.philosophy())
 | Tool Calling & Orchestration | Reranking Strategies | Structured Output Parsing |
 | Hallucination Reduction | Graph-based Querying (Neo4j) | Latency Optimization |
 
-| 📊 Data & ML | 🔌 Integrations | 🗄️ Databases |
+| Data & ML | Integrations | Databases |
 |---|---|---|
 | Scikit-learn | Twilio / LiveKit | Neo4j (Graph DB) |
 | NumPy / Pandas | MS Graph API | MongoDB |
@@ -386,7 +372,7 @@ print(me.philosophy())
 
 <br/>
 
-## 📚 &nbsp; Current Focus & Roadmap
+## Current Focus & Roadmap
 
 <br/>
 
@@ -412,11 +398,11 @@ mindmap
 
 <br/>
 
-- 🔭 **Currently building:** Advanced multi-agent orchestration systems and LLM evaluation frameworks
-- 🌱 **Learning:** Cloud deployment (AWS/GCP), Kubernetes, LangGraph, LlamaIndex, and LLM fine-tuning
-- 🤝 **Open to:** Open source AI projects, research collaborations, and hackathons
-- 🎯 **Goal:** Build production AI systems that meaningfully impact how businesses operate
-- 💬 **Ask me about:** RAG pipelines, agentic AI, prompt engineering, FastAPI, Neo4j, voice AI
+- **Currently building:** Advanced multi-agent orchestration systems and LLM evaluation frameworks
+- **Learning:** Cloud deployment (AWS/GCP), Kubernetes, LangGraph, LlamaIndex, and LLM fine-tuning
+- **Open to:** Open source AI projects, research collaborations, and hackathons
+- **Goal:** Build production AI systems that meaningfully impact how businesses operate
+- **Ask me about:** RAG pipelines, agentic AI, prompt engineering, FastAPI, Neo4j, voice AI
 
 <br/>
 
@@ -424,7 +410,7 @@ mindmap
 
 <br/>
 
-## 🎓 &nbsp; Education & Certifications
+## Education & Certifications
 
 <br/>
 
@@ -432,11 +418,11 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 Education
+### Education
 
 **B.Tech — Artificial Intelligence & Data Science**
-📍 Karpagam College of Engineering
-📅 2022 – 2026 &nbsp;|&nbsp; 🏆 CGPA: **8.1 / 10**
+Karpagam College of Engineering
+2022 – 2026 &nbsp;|&nbsp; CGPA: **8.1 / 10**
 
 **Relevant Coursework:**
 - Machine Learning & Deep Learning
@@ -447,13 +433,13 @@ mindmap
 </td>
 <td width="50%" valign="top">
 
-### 📜 Certifications & Achievements
+### Certifications & Achievements
 
-| 🏅 | Achievement |
-|---|---|
-| 🎓 | **NPTEL — Cloud Computing** (IIT Kharagpur) |
-| 📊 | **Qlik Sense Business Analyst** Certification |
-| 🥉 | **3rd Prize** — Code-O-Clock 24hr Hackathon, Coimbatore Institute of Technology |
+| Achievement |
+|---|
+| **NPTEL — Cloud Computing** (IIT Kharagpur) |
+| **Qlik Sense Business Analyst** Certification |
+| **3rd Prize** — Code-O-Clock 24hr Hackathon, Coimbatore Institute of Technology |
 
 </td>
 </tr>
@@ -465,13 +451,13 @@ mindmap
 
 <br/>
 
-## 🌐 &nbsp; Open Source & Community
+## Open Source & Community
 
 <br/>
 
 <div align="center">
 
-| 🤝 Collaboration Interests | 🛠️ Contribution Areas | 🎯 Domains |
+| Collaboration Interests | Contribution Areas | Domains |
 |---|---|---|
 | AI/LLM Tools & Libraries | RAG System Improvements | Conversational AI |
 | Agentic Framework Development | Prompt Engineering Toolkits | Voice AI Systems |
@@ -480,7 +466,7 @@ mindmap
 
 </div>
 
-> 💡 I believe in **building in public** and contributing back to the AI community that accelerates my own learning. If you're working on something ambitious in the LLM/agentic AI space — let's connect.
+> I believe in **building in public** and contributing back to the AI community that accelerates my own learning. If you're working on something ambitious in the LLM/agentic AI space — let's connect.
 
 <br/>
 
@@ -488,25 +474,25 @@ mindmap
 
 <br/>
 
-## 🤝 &nbsp; Let's Connect
+## Let's Connect
 
 <br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lithicksanjaiyan">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:lithicksanjaiyan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/Lithick-Sanjaiyan-S">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-> 💼 **Open to Junior AI Engineer roles** at AI-first startups. Let's build something impactful together.
+> Open to Junior AI Engineer roles at AI-first startups. Let's build something impactful together.
 
 </div>
 
